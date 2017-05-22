@@ -82,8 +82,8 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fredapi](https://github.com/jonathanchrisp/fredapi) - A Ruby wrapper for the Federal Reserve Economic Data API (FRED).
 * [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
-* [finviz_rails] (https://github.com/nemrow/finviz_rails/) - Ruby Wrapper around FinViz API
-* [marketwatch] (https://github.com/fengb/marketwatch/) - Early Stage API Wrapper for Marketwatch
+* [finviz_rails](https://github.com/nemrow/finviz_rails/) - Ruby Wrapper around FinViz API
+* [marketwatch](https://github.com/fengb/marketwatch/) - Early Stage API Wrapper for Marketwatch
 
 ### Others
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
