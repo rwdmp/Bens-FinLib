@@ -82,20 +82,11 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fredapi](https://github.com/jonathanchrisp/fredapi) - A Ruby wrapper for the Federal Reserve Economic Data API (FRED).
 * [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
+* [finviz_rails] (https://github.com/nemrow/finviz_rails/) - Ruby Wrapper around FinViz API
+* [marketwatch] (https://github.com/fengb/marketwatch/) - Early Stage API Wrapper for Marketwatch
 
 ### Others
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
-
-## Books
-* [Advanced Quantitative Finance with C++](http://shop.oreilly.com/product/9781782167228.do) - By Alonso Pena.
-* [DevOps for Finance](http://www.oreilly.com/webops-perf/free/devops-for-finance.csp) - Reducing Risk through Continuous Delivery, by Jim Bird.
-* [F# for Quantitative Finance](http://shop.oreilly.com/product/9781782164623.do) - By Johan Astborg.
-* [Hadoop for Finance Essentials](http://shop.oreilly.com/product/9781784395162.do) - By Rajiv Tiwari.
-* [Introduction to R for Quantitative Finance](http://shop.oreilly.com/product/9781783280933.do) - By Gergely Daróczi, Michael Puhle, Edina Berlinger, Péter Csóka, Daniel Havran, Márton Michaletzky, Zsolt Tulassay, Kata Váradi, Agnes Vidovics-Dancs.
-* [Mastering pandas for Finance](http://shop.oreilly.com/product/9781783985104.do) - By Michael Heydt.
-* [Mastering Python for Finance](http://shop.oreilly.com/product/9781784394516.do) - By James Ma Weiming.
-* [Mastering R for Quantitative Finance](http://shop.oreilly.com/product/9781783552078.do) - By Edina Berlinger, Ferenc Illes, Milan Badics, Adam Banai, Gergely Daróczi, Barbara Domotor, Gergely Gabler, Daniel Havran, Peter Juhasz, Istvan Margitai, Balazs Markus, Peter Medvegyev, Julia Molnar, Balazs Arpad Szucs, Agnes Tuza, Tamas Vadasz, Kata Váradi, Agnes Vidovics-Dancs.
-* [Python for Finance](http://shop.oreilly.com/product/0636920032441.do) - Analyze Big Financial Data, By Yves Hilpisch.
 
 # License
 
